@@ -16,7 +16,7 @@ on:
       - master
     paths:
       - 'defconfig'
-#  schedule:
+#  schedule: 
 #    - cron: 0 8 * * 5
 #  watch:
 #    types: started
